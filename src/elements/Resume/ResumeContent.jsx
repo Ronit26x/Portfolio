@@ -11,7 +11,7 @@ const ResumeContent = () => {
 	return (
 		<BodyContent>
 			<Iframe
-				src="https://res.cloudinary.com/boidu/image/upload/v1697223479/Resume.pdf"
+				src="https://drive.google.com/file/d/1Sqw8XyZZ_pdUf3S8dRdJkF0ffnT1kLRR/view?usp=sharing"
 				frameBorder="0"
 				title="Boidushya's Resume"
 			></Iframe>
