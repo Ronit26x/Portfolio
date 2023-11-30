@@ -11,7 +11,7 @@ const ResumeContent = () => {
 	return (
 		<BodyContent>
 			<Iframe
-				src="https://asset.cloudinary.com/dozv3jkth/fa0c21cfed222bd21c35d7acd88983bd"
+				src="https://res.cloudinary.com/dozv3jkth/image/upload/v1701371975/Ronit_Bhansali_Resume_jukfqv.pdf"
 				frameBorder="0"
 				title="Boidushya's Resume"
 			></Iframe>
