@@ -50,7 +50,7 @@
 			"has": [
 				{
 					"type": "host",
-					"value": "resume.boidushya.com"
+					"value": "resume.ronit.com"
 				}
 			],
 			"destination": "/resume_link/:path*"
